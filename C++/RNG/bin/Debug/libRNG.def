@@ -1,0 +1,5 @@
+EXPORTS
+    _ZN10Custom_RNG12Generate_RNGEi @1
+    _ZN10Custom_RNG12InvertedBitsEj @2
+    _ZN10Custom_RNG4PRNGEj @3
+    _ZN10Custom_RNG7SysRandEi @4

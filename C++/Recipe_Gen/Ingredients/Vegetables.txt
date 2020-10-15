@@ -1,0 +1,13 @@
+Lettuce
+Cabbage
+Zucchini
+Brocolli
+Onion
+Garlic
+Asparagus
+Celery
+Potato
+Pumpkin
+Cucumber
+Cauliflower
+Spinach

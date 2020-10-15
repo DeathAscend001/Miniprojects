@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1591677918 source:c:\users\trias\documents\tests\miniprojects\c++ filetaker\main.cpp
+	<boost/filesystem.hpp>
+	<direct.h>
+	<iostream>
+	<fstream>
+	<vector>
+	<chrono>
+	<string>
+	<ctime>
+	<windows.h>
+
+1591575589 source:c:\users\trias\documents\tests\miniprojects\c++ filetaker\resource.rc
+
+1591677918 source:c:\users\trias\documents\tests\miniprojects\c++\c++ filetaker\main.cpp
+	<boost/filesystem.hpp>
+	<direct.h>
+	<iostream>
+	<fstream>
+	<vector>
+	<chrono>
+	<string>
+	<ctime>
+	<windows.h>
+
+1591575589 source:c:\users\trias\documents\tests\miniprojects\c++\c++ filetaker\resource.rc
+
+1597018385 source:c:\users\trias\downloads\clone\miniprojects\c++ filetaker\main.cpp
+	<boost/filesystem.hpp>
+	<direct.h>
+	<iostream>
+	<fstream>
+	<vector>
+	<chrono>
+	<string>
+	<ctime>
+	<windows.h>
+
+1597015880 source:c:\users\trias\downloads\clone\miniprojects\c++ filetaker\resource.rc
+

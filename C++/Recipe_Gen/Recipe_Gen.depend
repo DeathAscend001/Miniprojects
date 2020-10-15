@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1593588345 source:c:\users\trias\documents\tests\miniprojects\c++\recipe_gen\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	"RNG.h"
+
+1593585533 c:\users\trias\documents\tests\miniprojects\c++\recipe_gen\rng.h
+	<random>
+	<ctime>
+
+1593588756 source:c:\users\trias\documents\tests\miniprojects\c++\recipe_gen\resource.rc
+
+1597026756 source:c:\users\trias\documents\_\tests\miniprojects\c++\recipe_gen\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<windows.h>
+	"RNG.h"
+
+1593585533 c:\users\trias\documents\_\tests\miniprojects\c++\recipe_gen\rng.h
+	<random>
+	<ctime>
+
+1593588756 source:c:\users\trias\documents\_\tests\miniprojects\c++\recipe_gen\resource.rc
+

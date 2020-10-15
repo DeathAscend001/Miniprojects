@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1593585547 source:c:\users\trias\documents\tests\miniprojects\c++\rng\rng.cpp
+	"RNG.h"
+
+1593585533 c:\users\trias\documents\tests\miniprojects\c++\rng\rng.h
+	<random>
+	<ctime>
+
+1593585547 source:c:\users\trias\documents\_\tests\miniprojects\c++\rng\rng.cpp
+	"RNG.h"
+
+1593585533 c:\users\trias\documents\_\tests\miniprojects\c++\rng\rng.h
+	<random>
+	<ctime>
+

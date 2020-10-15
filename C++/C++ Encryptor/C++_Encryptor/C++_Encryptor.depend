@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1593360282 source:c:\users\trias\documents\tests\miniprojects\c++\c++ encryptor\c++_encryptor\mainrunner.cpp
+	<iostream>
+	<string>
+	<vector>
+	<windows.h>
+
+1593354423 source:c:\users\trias\documents\tests\miniprojects\c++\c++ encryptor\c++_encryptor\resource.rc
+
