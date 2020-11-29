@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1606567507 source:c:\users\hp\documents\-----------------\c++\accountstore\main.cpp
+	"File_Support.h"
+	<iostream>
+	<map>
+	<limits>
+	<memory>
+	<windows.h>
+
+1606615055 source:c:\users\hp\downloads\clone\miniprojects\c++\accountstore\main.cpp
+	"File_Support.h"
+	<iostream>
+	<map>
+	<limits>
+	<memory>
+	<windows.h>
+
